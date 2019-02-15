@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="pinYouGou-common" />
+        <module name="pinYouGou-dao" />
+        <module name="pinYouGou-interface" />
+        <module name="pinYouGou-pojo" />
+        <module name="pinYouGou-service-buyer" />
+        <module name="pinYouGou-service-page" />
+        <module name="pinYouGou-service-search" />
+        <module name="pinYouGou-service-sellergoods" />
+        <module name="pinYouGou-service-user" />
+        <module name="pinYouGou-web-manager" />
+        <module name="pinYouGou-web-portal" />
+        <module name="pinYouGou-web-shop" />
+        <module name="pinYouGou-web-user" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="pinYouGou-common" target="1.7" />
+      <module name="pinYouGou-dao" target="1.7" />
+      <module name="pinYouGou-github" target="1.7" />
+      <module name="pinYouGou-interface" target="1.7" />
+      <module name="pinYouGou-pojo" target="1.7" />
+      <module name="pinYouGou-service-buyer" target="1.7" />
+      <module name="pinYouGou-service-page" target="1.7" />
+      <module name="pinYouGou-service-search" target="1.7" />
+      <module name="pinYouGou-service-sellergoods" target="1.7" />
+      <module name="pinYouGou-service-user" target="1.7" />
+      <module name="pinYouGou-web-manager" target="1.7" />
+      <module name="pinYouGou-web-portal" target="1.7" />
+      <module name="pinYouGou-web-shop" target="1.7" />
+      <module name="pinYouGou-web-user" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

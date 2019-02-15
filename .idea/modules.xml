@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/pinYouGou-common/pinYouGou-common.iml" filepath="$PROJECT_DIR$/pinYouGou-common/pinYouGou-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinYouGou-dao/pinYouGou-dao.iml" filepath="$PROJECT_DIR$/pinYouGou-dao/pinYouGou-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinYouGou-github.iml" filepath="$PROJECT_DIR$/pinYouGou-github.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinYouGou-interface/pinYouGou-interface.iml" filepath="$PROJECT_DIR$/pinYouGou-interface/pinYouGou-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinYouGou-pojo/pinYouGou-pojo.iml" filepath="$PROJECT_DIR$/pinYouGou-pojo/pinYouGou-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinYouGou-service-buyer/pinYouGou-service-buyer.iml" filepath="$PROJECT_DIR$/pinYouGou-service-buyer/pinYouGou-service-buyer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinYouGou-service-page/pinYouGou-service-page.iml" filepath="$PROJECT_DIR$/pinYouGou-service-page/pinYouGou-service-page.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinYouGou-service-search/pinYouGou-service-search.iml" filepath="$PROJECT_DIR$/pinYouGou-service-search/pinYouGou-service-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinYouGou-service-sellergoods/pinYouGou-service-sellergoods.iml" filepath="$PROJECT_DIR$/pinYouGou-service-sellergoods/pinYouGou-service-sellergoods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinYouGou-service-user/pinYouGou-service-user.iml" filepath="$PROJECT_DIR$/pinYouGou-service-user/pinYouGou-service-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinYouGou-web-manager/pinYouGou-web-manager.iml" filepath="$PROJECT_DIR$/pinYouGou-web-manager/pinYouGou-web-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinYouGou-web-portal/pinYouGou-web-portal.iml" filepath="$PROJECT_DIR$/pinYouGou-web-portal/pinYouGou-web-portal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinYouGou-web-shop/pinYouGou-web-shop.iml" filepath="$PROJECT_DIR$/pinYouGou-web-shop/pinYouGou-web-shop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinYouGou-web-user/pinYouGou-web-user.iml" filepath="$PROJECT_DIR$/pinYouGou-web-user/pinYouGou-web-user.iml" />
+    </modules>
+  </component>
+</project>

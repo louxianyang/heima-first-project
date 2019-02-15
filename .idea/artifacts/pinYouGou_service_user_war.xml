@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="pinYouGou-service-user:war">
+    <output-path>$PROJECT_DIR$/pinYouGou-service-user/target</output-path>
+    <root id="archive" name="pinYouGou-service-user.war">
+      <element id="artifact" artifact-name="pinYouGou-service-user:war exploded" />
+    </root>
+  </artifact>
+</component>
